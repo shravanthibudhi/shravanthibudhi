@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shravanthibudhi
-- 👀 I’m interested in building products focused on great user experiences, design priciples, trends and technologies
-- 🌱 I’m currently learning Javascript and React
+- 👀 I’m interested in building products focused on great user experiences, design principles/trends, and technologies
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects that make a positive human impact
 - 📫 You can reach me through Linkedin @shravanthibudhi
 
